@@ -26,13 +26,13 @@ const ContactSection = () => {
                 icon: Phone,
                 label: "Teléfono",
                 value: "Contáctanos por WhatsApp",
-                href: "https://wa.me/",
+                href: "wa.me/573177540685",
               },
               {
                 icon: Mail,
                 label: "Correo electrónico",
                 value: "info@segurarte.com",
-                href: "mailto:info@segurarte.com",
+                href: "mailto:ventas@segur-arte.com",
               },
               {
                 icon: Instagram,
